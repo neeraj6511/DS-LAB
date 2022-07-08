@@ -1,9 +1,6 @@
 # DS-LAB
 #Data structer lab
 ## Exp1:- Find second maximum and second minumam of an input array
-
-
-## Exp1: Find second maximum and second minimum of an input array.
 ## Exp2: Program to implement stack and its operations
 ## Exp3: Program to solve tower of hanoi problem
 ## Exp4: Program to implement a queue and its operations
